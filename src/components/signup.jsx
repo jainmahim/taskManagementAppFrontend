@@ -127,7 +127,7 @@ export default function Signup() {
                 <p className="mb-0 bg-white mt-2 pt-1 text-sm font-semibold">
                   Already have account?
                   <Link
-                    to="/login"
+                    to="/"
                     className="text-danger bg-white text-rose-500 transition duration-150 ease-in-out hover:text-danger-600 focus:text-danger-600 active:text-danger-700"
                   >
                     &nbsp; Login
